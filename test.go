@@ -7,4 +7,5 @@ func main() {
 	fmt.Println("Hello, World!")
 	fmt.Println("Goodbye!")
 	fmt.Println("Want to sleep...")
+	fmt.Println("Good Morning!")
 }
